@@ -20,7 +20,7 @@ import android.net.NetworkInfo;
 import android.net.wifi.WifiManager;
 import android.os.*;
 import android.os.Process;
-import android.support.v7.app.NotificationCompat;
+import androidx.core.app.NotificationCompat;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 import android.hardware.Sensor;
